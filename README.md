@@ -1,4 +1,6 @@
-&#x20;**Next Word Prediction using Deep Learning**
+# &#x20;**Next Word Prediction using Deep Learning**
+
+### LSTM-based NLP Model for Predicting Next Words
 
 ## Run on Google Colab
 [Open in Colab](https://colab.research.google.com/drive/118aedT7q5Icm7zzX72Lgi1uk5dDukEqg?usp=sharing)
